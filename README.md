@@ -4,5 +4,4 @@
  * Run file on python3.X
 
  ![Sample Output](https://github.com/linxnerd/principle-of-resolution/blob/master/img/01.png)  
-
  ![Sample Output](https://github.com/linxnerd/principle-of-resolution/blob/master/img/02.png)  
